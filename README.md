@@ -1,7 +1,7 @@
 # PINN resources
 ## Links to my streamlit apps:
-* This all let's you explore physics informed latency prediciton and associated advantages for uncertainty estimates: https://physics-informed-latency-pred.streamlit.app/
-* This app let's you explore manual tuning of hyperparameters for a clean SHO signal: https://pinnlearning.streamlit.app/
+* Explore physics informed latency prediciton and associated advantages for uncertainty estimates: https://physics-informed-latency-pred.streamlit.app/
+* Explore manual tuning of hyperparameters for a clean SHO signal: https://pinnlearning.streamlit.app/
 
 ## Links to my code respositories
 * https://github.com/suchitakulkarni/DataScience/tree/main/Physics_Informed_Latency_Prediction
