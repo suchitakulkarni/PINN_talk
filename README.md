@@ -4,7 +4,10 @@ Links to my streamlit apps:
 * https://pinnlearning.streamlit.app/
 
 Links to my respositories
-* 
+* https://github.com/suchitakulkarni/DataScience/tree/main/Physics_Informed_Latency_Prediction
+* https://github.com/suchitakulkarni/DataScience/tree/main/LSTM_PINN
+
+
 Here is a list of resources I have created and used during my talk. 
 List of papers referred:
 * Cranganore et al. arXiv:2507.11589
