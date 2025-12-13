@@ -1,2 +1,22 @@
-# PINN_talk
-Repository contains links to PINN projects I have created and slide deck of the talk I gave 
+# PINN resources
+Links to my streamlit apps:
+* https://physics-informed-latency-pred.streamlit.app/
+* https://pinnlearning.streamlit.app/
+
+Links to my respositories
+* 
+Here is a list of resources I have created and used during my talk. 
+List of papers referred:
+* arXiv:2507.11589
+* arXiv:2405.13063
+* Raissi et al arXiv:1711.10561
+* Greydanus et al arXiv:1906.01563
+* Cranmer et al arXiv: 2003.04630
+* Brunton et al, arXiv:1509.03580
+* Chen et al arXiv:1806.07366
+* arXiv:2504.06588
+
+Useful repositories
+* https://github.com/benmoseley/harmonic-oscillator-pinn
+
+
