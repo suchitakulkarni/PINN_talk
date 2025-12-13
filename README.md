@@ -20,5 +20,6 @@ List of papers referred:
 
 ## Other useful repositories
 * https://github.com/benmoseley/harmonic-oscillator-pinn
+* https://benmoseley.blog/uploads/slides/24_03_imperial-mini-lecture.pdf
 
 
