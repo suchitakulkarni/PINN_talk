@@ -42,6 +42,9 @@ These range from foundational PINN work to more recent perspectives on inductive
 * Bodner et al., arXiv:2405.13063
 * Cranganore et al., arXiv:2507.11589
 * Xie et al., arXiv:2504.06588
+## Additional references following Q&A
+* Zhong et al, (PI-VAE), arXiv:2203.11363
+* Yang et al, PI-GAN arXiv:1811.02033
 
 # Related implementations and teaching material
 
