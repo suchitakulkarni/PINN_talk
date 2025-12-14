@@ -5,6 +5,9 @@
 Physics-Informed Neural Networks (PINNs) combine differential equations with neural networks to model dynamical systems under data scarcity, noise, and physical constraints.
 This page collects interactive demos, code, and references used in the talk, with an emphasis on oscillatory systems and latency prediction.
 
+# Slides
+https://github.com/suchitakulkarni/PINN_talk/blob/main/PINN_slides.pdf
+
 # Interactive demos
 
 These Streamlit apps are meant to be exploratory rather than polished products. They expose model behavior, failure modes, and uncertainty directly.
