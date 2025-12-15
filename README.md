@@ -23,7 +23,7 @@ https://pinnlearning.streamlit.app/
 # Code repositories
 
 ## Physics-informed latency prediction
-End-to-end experiments combining simple physical structure with neural models.
+End-to-end experiments combining simple physical structure with linear regression.
 https://github.com/suchitakulkarni/DataScience/tree/main/Physics_Informed_Latency_Prediction
 
 ## LSTM-PINN experiments on noisy signals
