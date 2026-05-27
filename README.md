@@ -32,12 +32,6 @@ https://github.com/suchitakulkarni/DataScience/tree/main/Physics_Informed_Latenc
 Tests on oscillatory signals with increasing noise and partial observability.
 https://github.com/suchitakulkarni/DataScience/tree/main/LSTM_PINN
 
-## DeepXDE (not developed by me)
-https://deepxde.readthedocs.io/en/latest/
-
-## NVIDIA NeMo (not developed by me)
-https://developer.nvidia.com/physicsnemo
-
 # Papers referenced in the talk
 
 These range from foundational PINN work to more recent perspectives on inductive bias and scientific machine learning.
@@ -61,6 +55,15 @@ https://github.com/benmoseley/harmonic-oscillator-pinn
 
 * Mini-lecture slides on PINNs and dynamical systems
 https://benmoseley.blog/uploads/slides/24_03_imperial-mini-lecture.pdf
+
+* DeepXDE (not developed by me)
+https://deepxde.readthedocs.io/en/latest/
+
+* NVIDIA NeMo (not developed by me)
+https://developer.nvidia.com/physicsnemo
+
+* Emmi-AI
+https://github.com/Emmi-AI
 
 # How to use this page
 
