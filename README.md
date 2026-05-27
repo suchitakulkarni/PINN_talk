@@ -6,7 +6,9 @@ Physics-Informed Neural Networks (PINNs) combine differential equations with neu
 This page collects interactive demos, code, and references used in the talk, with an emphasis on oscillatory systems and latency prediction.
 
 # Slides
-https://github.com/suchitakulkarni/PINN_talk/blob/main/PINN_slides.pdf
+- v0: https://github.com/suchitakulkarni/PINN_talk/blob/main/PINN_slides.pdf
+- v1: https://github.com/suchitakulkarni/PINN_talk/blob/main/PINN_V1.pdf
+
 
 # Interactive demos
 
@@ -29,6 +31,9 @@ https://github.com/suchitakulkarni/DataScience/tree/main/Physics_Informed_Latenc
 ## LSTM-PINN experiments on noisy signals
 Tests on oscillatory signals with increasing noise and partial observability.
 https://github.com/suchitakulkarni/DataScience/tree/main/LSTM_PINN
+
+## DeepXDE (not developed by me)
+https://deepxde.readthedocs.io/en/latest/
 
 # Papers referenced in the talk
 
