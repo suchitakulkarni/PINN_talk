@@ -35,6 +35,9 @@ https://github.com/suchitakulkarni/DataScience/tree/main/LSTM_PINN
 ## DeepXDE (not developed by me)
 https://deepxde.readthedocs.io/en/latest/
 
+## NVIDIA NeMo (not developed by me)
+https://developer.nvidia.com/physicsnemo
+
 # Papers referenced in the talk
 
 These range from foundational PINN work to more recent perspectives on inductive bias and scientific machine learning.
