@@ -7,7 +7,7 @@ This page collects interactive demos, code, and references used in the talk, wit
 
 # Slides
 - v0: https://github.com/suchitakulkarni/PINN_talk/blob/main/PINN_slides.pdf
-- v1: https://github.com/suchitakulkarni/PINN_talk/blob/main/PINN_V1.pdfhttps://github.com/suchitakulkarni/PINN_talk/blob/main/PINN_v1.pdf
+- v1: https://github.com/suchitakulkarni/PINN_talk/blob/main/PINN_v1.pdf
 
 
 # Interactive demos
